@@ -1,0 +1,49 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>DEVI.A -Portfolie</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin:0;
+                padding:0;
+                background-color: rgb(10, 165, 80);
+            }
+
+            header {
+                background-color: black;
+                color: aliceblue;
+                text-align: center;
+                padding:2rem;
+                position: relative;
+            }
+
+            h1 {
+               font-size: 2.5rem;
+            }
+
+            section {
+                background-color: rgb(121, 176, 224);
+                padding: 1rem;
+                margin: 1rem;
+                box-shadow: 3px;;
+            }
+
+            h2 {
+                background-color: #10c470;
+                color: #dac8c8;
+                padding: 2rem;
+            }
+
+            ul {
+                list-style-type: square;
+            }
+            footer{
+                text-align: center;
+                padding: 1rem 0;
+                background-position: #333  
+                
+            }
+        </style>
+    </head>    
+</html>    
